@@ -1,0 +1,24 @@
+{
+  "name": "liars-dice",
+  "version": "1.0.0",
+  "description": "Liars Dice Game Repository Read Me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmoualle/liars-dice.git"
+  },
+  "author": "Matt Mohl & Kyle Mouallem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmoualle/liars-dice/issues"
+  },
+  "homepage": "https://github.com/kmoualle/liars-dice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.2.0"
+  }
+}
